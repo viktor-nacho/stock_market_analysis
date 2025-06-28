@@ -29,10 +29,9 @@ Perfect for anyone tracking the Nigerian Exchange or looking for a robust exampl
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/viktor-nacho/stock_market_analysis.git
     cd your-repo-name
-    ```
-    *(Remember to replace `your-username` and `your-repo-name` with your actual GitHub details!)*
+  
 2.  **Install the required libraries:**
     ```bash
     pip install pandas pdfplumber matplotlib seaborn
